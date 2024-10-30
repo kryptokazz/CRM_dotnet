@@ -1,0 +1,14 @@
+/home/kryptokazz/CRMApp/bin/Debug/net6.0/CRMApp
+/home/kryptokazz/CRMApp/bin/Debug/net6.0/CRMApp.deps.json
+/home/kryptokazz/CRMApp/bin/Debug/net6.0/CRMApp.runtimeconfig.json
+/home/kryptokazz/CRMApp/bin/Debug/net6.0/CRMApp.dll
+/home/kryptokazz/CRMApp/bin/Debug/net6.0/CRMApp.pdb
+/home/kryptokazz/CRMApp/obj/Debug/net6.0/CRMApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/kryptokazz/CRMApp/obj/Debug/net6.0/CRMApp.AssemblyInfoInputs.cache
+/home/kryptokazz/CRMApp/obj/Debug/net6.0/CRMApp.AssemblyInfo.cs
+/home/kryptokazz/CRMApp/obj/Debug/net6.0/CRMApp.csproj.CoreCompileInputs.cache
+/home/kryptokazz/CRMApp/obj/Debug/net6.0/CRMApp.dll
+/home/kryptokazz/CRMApp/obj/Debug/net6.0/refint/CRMApp.dll
+/home/kryptokazz/CRMApp/obj/Debug/net6.0/CRMApp.pdb
+/home/kryptokazz/CRMApp/obj/Debug/net6.0/CRMApp.genruntimeconfig.cache
+/home/kryptokazz/CRMApp/obj/Debug/net6.0/ref/CRMApp.dll
